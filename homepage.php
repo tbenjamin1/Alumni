@@ -9,7 +9,7 @@ echo "welcome" .$_SESSION["email"];
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> 
 <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js">
 </script>
     <meta charset="UTF-8">
